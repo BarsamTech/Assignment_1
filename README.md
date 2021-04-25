@@ -1,4 +1,4 @@
-# Assignment 1, iCode Course
+# Assignment 1
 A simple registration form and login form.
 It uses HTML and external CSS.
 ## Features
